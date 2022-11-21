@@ -1,0 +1,1686 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "STEM School",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Pro",
+            "screenshot": "screenshots\/home-pro.jpg",
+            "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us 1",
+            "screenshot": "screenshots\/about-us-1.jpg",
+            "source": "templates\/about-us-1-d8a36c1098e80fd1d39713132635d522.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us 2",
+            "screenshot": "screenshots\/about-us-2.jpg",
+            "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Courses",
+            "screenshot": "screenshots\/courses.jpg",
+            "source": "templates\/courses-be8c11f43d8d9ee30afb722ca7a644d5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Couses Pro",
+            "screenshot": "screenshots\/couses-pro.jpg",
+            "source": "templates\/couses-pro-9099c1d7cb9bd83c6c989cce287108ea.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Couse Detail",
+            "screenshot": "screenshots\/couse-detail.jpg",
+            "source": "templates\/couse-detail-a23785579b8718f420cf046a9cc03f80.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Course Detail Pro",
+            "screenshot": "screenshots\/course-detail-pro.jpg",
+            "source": "templates\/course-detail-pro-ea87578e4f0dfafe28c2721a63618219.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "F.A.Q 1",
+            "screenshot": "screenshots\/f.a.q-1.jpg",
+            "source": "templates\/f.a.q-1-97f332a7322c8450b134eb97d2a35b31.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "F.A.Q 2",
+            "screenshot": "screenshots\/f.a.q-2.jpg",
+            "source": "templates\/f.a.q-2-967e911f145a9cfa3b7bfad6fdb745ad.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Career Paths",
+            "screenshot": "screenshots\/career-paths.jpg",
+            "source": "templates\/career-paths-146ffcd6a2054d3131edd656b61b4302.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Campus Tours",
+            "screenshot": "screenshots\/campus-tours.jpg",
+            "source": "templates\/campus-tours-b41ea73f84c10c6bcbc64f62ad437b25.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Campus",
+            "screenshot": "screenshots\/campus.jpg",
+            "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Enrollment",
+            "screenshot": "screenshots\/enrollment.jpg",
+            "source": "templates\/enrollment-d1de02ba5fed0ef6a60a310f05d1487a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Membership",
+            "screenshot": "screenshots\/membership.jpg",
+            "source": "templates\/membership-35e780b4df7d29eb923b20b8a41bab76.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us 1",
+            "screenshot": "screenshots\/contact-us-1.jpg",
+            "source": "templates\/contact-us-1-76bc8ba2cc78d5ca36fe6dbfe9276930.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us 2",
+            "screenshot": "screenshots\/contact-us-2.jpg",
+            "source": "templates\/contact-us-2-78ae62950c6231f963f76a10ea9553e3.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": [
+        {
+            "filename": "main_2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/main_2-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 206479,
+            "dimensions": [
+                1200,
+                801
+            ]
+        },
+        {
+            "filename": "icon_diploma.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/icon_diploma.png",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/couses-pro-9099c1d7cb9bd83c6c989cce287108ea.json",
+                    "name": "Couses Pro"
+                },
+                {
+                    "source": "templates\/couse-detail-a23785579b8718f420cf046a9cc03f80.json",
+                    "name": "Couse Detail"
+                },
+                {
+                    "source": "templates\/campus-tours-b41ea73f84c10c6bcbc64f62ad437b25.json",
+                    "name": "Campus Tours"
+                }
+            ],
+            "filesize": 17658,
+            "dimensions": [
+                478,
+                512
+            ]
+        },
+        {
+            "filename": "icon_professor.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/icon_professor-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/couses-pro-9099c1d7cb9bd83c6c989cce287108ea.json",
+                    "name": "Couses Pro"
+                },
+                {
+                    "source": "templates\/campus-tours-b41ea73f84c10c6bcbc64f62ad437b25.json",
+                    "name": "Campus Tours"
+                },
+                {
+                    "source": "templates\/contact-us-2-78ae62950c6231f963f76a10ea9553e3.json",
+                    "name": "Contact Us 2"
+                }
+            ],
+            "filesize": 22235,
+            "dimensions": [
+                512,
+                512
+            ]
+        },
+        {
+            "filename": "icon_materials.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/icon_materials-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/couses-pro-9099c1d7cb9bd83c6c989cce287108ea.json",
+                    "name": "Couses Pro"
+                },
+                {
+                    "source": "templates\/campus-tours-b41ea73f84c10c6bcbc64f62ad437b25.json",
+                    "name": "Campus Tours"
+                }
+            ],
+            "filesize": 12695,
+            "dimensions": [
+                512,
+                512
+            ]
+        },
+        {
+            "filename": "main_3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/main_3-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/about-us-1-d8a36c1098e80fd1d39713132635d522.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/courses-be8c11f43d8d9ee30afb722ca7a644d5.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/couses-pro-9099c1d7cb9bd83c6c989cce287108ea.json",
+                    "name": "Couses Pro"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                },
+                {
+                    "source": "templates\/membership-35e780b4df7d29eb923b20b8a41bab76.json",
+                    "name": "Membership"
+                }
+            ],
+            "filesize": 179528,
+            "dimensions": [
+                1200,
+                801
+            ]
+        },
+        {
+            "filename": "stem_video_background.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_video_background-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/courses-be8c11f43d8d9ee30afb722ca7a644d5.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/career-paths-146ffcd6a2054d3131edd656b61b4302.json",
+                    "name": "Career Paths"
+                },
+                {
+                    "source": "templates\/campus-tours-b41ea73f84c10c6bcbc64f62ad437b25.json",
+                    "name": "Campus Tours"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                },
+                {
+                    "source": "templates\/enrollment-d1de02ba5fed0ef6a60a310f05d1487a.json",
+                    "name": "Enrollment"
+                },
+                {
+                    "source": "templates\/membership-35e780b4df7d29eb923b20b8a41bab76.json",
+                    "name": "Membership"
+                },
+                {
+                    "source": "templates\/contact-us-1-76bc8ba2cc78d5ca36fe6dbfe9276930.json",
+                    "name": "Contact Us 1"
+                },
+                {
+                    "source": "templates\/contact-us-2-78ae62950c6231f963f76a10ea9553e3.json",
+                    "name": "Contact Us 2"
+                }
+            ],
+            "filesize": 165805,
+            "dimensions": [
+                900,
+                600
+            ]
+        },
+        {
+            "filename": "stem_developer.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_developer-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses-be8c11f43d8d9ee30afb722ca7a644d5.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/couses-pro-9099c1d7cb9bd83c6c989cce287108ea.json",
+                    "name": "Couses Pro"
+                },
+                {
+                    "source": "templates\/couse-detail-a23785579b8718f420cf046a9cc03f80.json",
+                    "name": "Couse Detail"
+                },
+                {
+                    "source": "templates\/course-detail-pro-ea87578e4f0dfafe28c2721a63618219.json",
+                    "name": "Course Detail Pro"
+                },
+                {
+                    "source": "templates\/career-paths-146ffcd6a2054d3131edd656b61b4302.json",
+                    "name": "Career Paths"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                }
+            ],
+            "filesize": 140061,
+            "dimensions": [
+                1200,
+                801
+            ]
+        },
+        {
+            "filename": "stem_student.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_student-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/campus-tours-b41ea73f84c10c6bcbc64f62ad437b25.json",
+                    "name": "Campus Tours"
+                },
+                {
+                    "source": "templates\/contact-us-1-76bc8ba2cc78d5ca36fe6dbfe9276930.json",
+                    "name": "Contact Us 1"
+                }
+            ],
+            "filesize": 403699,
+            "dimensions": [
+                1200,
+                801
+            ]
+        },
+        {
+            "filename": "stem_student2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_student2-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                }
+            ],
+            "filesize": 66728,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "stem_event1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_event1-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                }
+            ],
+            "filesize": 106666,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "adult-communication-daylight-1346197.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/adult-communication-daylight-1346197-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/couse-detail-a23785579b8718f420cf046a9cc03f80.json",
+                    "name": "Couse Detail"
+                },
+                {
+                    "source": "templates\/f.a.q-1-97f332a7322c8450b134eb97d2a35b31.json",
+                    "name": "F.A.Q 1"
+                },
+                {
+                    "source": "templates\/f.a.q-2-967e911f145a9cfa3b7bfad6fdb745ad.json",
+                    "name": "F.A.Q 2"
+                },
+                {
+                    "source": "templates\/campus-tours-b41ea73f84c10c6bcbc64f62ad437b25.json",
+                    "name": "Campus Tours"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                },
+                {
+                    "source": "templates\/contact-us-1-76bc8ba2cc78d5ca36fe6dbfe9276930.json",
+                    "name": "Contact Us 1"
+                }
+            ],
+            "filesize": 275271,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "hands-typing-code-on-laptop.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/hands-typing-code-on-laptop-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/about-us-1-d8a36c1098e80fd1d39713132635d522.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/courses-be8c11f43d8d9ee30afb722ca7a644d5.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/couses-pro-9099c1d7cb9bd83c6c989cce287108ea.json",
+                    "name": "Couses Pro"
+                },
+                {
+                    "source": "templates\/couse-detail-a23785579b8718f420cf046a9cc03f80.json",
+                    "name": "Couse Detail"
+                },
+                {
+                    "source": "templates\/course-detail-pro-ea87578e4f0dfafe28c2721a63618219.json",
+                    "name": "Course Detail Pro"
+                },
+                {
+                    "source": "templates\/campus-tours-b41ea73f84c10c6bcbc64f62ad437b25.json",
+                    "name": "Campus Tours"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                },
+                {
+                    "source": "templates\/membership-35e780b4df7d29eb923b20b8a41bab76.json",
+                    "name": "Membership"
+                },
+                {
+                    "source": "templates\/contact-us-2-78ae62950c6231f963f76a10ea9553e3.json",
+                    "name": "Contact Us 2"
+                }
+            ],
+            "filesize": 76568,
+            "dimensions": [
+                925,
+                617
+            ]
+        },
+        {
+            "filename": "three-students-working-flatlay.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/three-students-working-flatlay-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us-1-d8a36c1098e80fd1d39713132635d522.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/courses-be8c11f43d8d9ee30afb722ca7a644d5.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/course-detail-pro-ea87578e4f0dfafe28c2721a63618219.json",
+                    "name": "Course Detail Pro"
+                },
+                {
+                    "source": "templates\/f.a.q-1-97f332a7322c8450b134eb97d2a35b31.json",
+                    "name": "F.A.Q 1"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                },
+                {
+                    "source": "templates\/membership-35e780b4df7d29eb923b20b8a41bab76.json",
+                    "name": "Membership"
+                },
+                {
+                    "source": "templates\/contact-us-2-78ae62950c6231f963f76a10ea9553e3.json",
+                    "name": "Contact Us 2"
+                }
+            ],
+            "filesize": 77330,
+            "dimensions": [
+                925,
+                617
+            ]
+        },
+        {
+            "filename": "icon_school.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/icon_school-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                },
+                {
+                    "source": "templates\/contact-us-1-76bc8ba2cc78d5ca36fe6dbfe9276930.json",
+                    "name": "Contact Us 1"
+                },
+                {
+                    "source": "templates\/contact-us-2-78ae62950c6231f963f76a10ea9553e3.json",
+                    "name": "Contact Us 2"
+                }
+            ],
+            "filesize": 7646,
+            "dimensions": [
+                512,
+                512
+            ]
+        },
+        {
+            "filename": "people-2557396_1280.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/people-2557396_1280-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/about-us-1-d8a36c1098e80fd1d39713132635d522.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/courses-be8c11f43d8d9ee30afb722ca7a644d5.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/couse-detail-a23785579b8718f420cf046a9cc03f80.json",
+                    "name": "Couse Detail"
+                },
+                {
+                    "source": "templates\/career-paths-146ffcd6a2054d3131edd656b61b4302.json",
+                    "name": "Career Paths"
+                },
+                {
+                    "source": "templates\/campus-tours-b41ea73f84c10c6bcbc64f62ad437b25.json",
+                    "name": "Campus Tours"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                },
+                {
+                    "source": "templates\/enrollment-d1de02ba5fed0ef6a60a310f05d1487a.json",
+                    "name": "Enrollment"
+                },
+                {
+                    "source": "templates\/contact-us-1-76bc8ba2cc78d5ca36fe6dbfe9276930.json",
+                    "name": "Contact Us 1"
+                }
+            ],
+            "filesize": 305468,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "science-examining-magnifiers.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/science-examining-magnifiers-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/about-us-1-d8a36c1098e80fd1d39713132635d522.json",
+                    "name": "About Us 1"
+                }
+            ],
+            "filesize": 31601,
+            "dimensions": [
+                925,
+                617
+            ]
+        },
+        {
+            "filename": "stem_students6.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_students6-500x330.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/about-us-1-d8a36c1098e80fd1d39713132635d522.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/couses-pro-9099c1d7cb9bd83c6c989cce287108ea.json",
+                    "name": "Couses Pro"
+                },
+                {
+                    "source": "templates\/course-detail-pro-ea87578e4f0dfafe28c2721a63618219.json",
+                    "name": "Course Detail Pro"
+                },
+                {
+                    "source": "templates\/f.a.q-1-97f332a7322c8450b134eb97d2a35b31.json",
+                    "name": "F.A.Q 1"
+                },
+                {
+                    "source": "templates\/f.a.q-2-967e911f145a9cfa3b7bfad6fdb745ad.json",
+                    "name": "F.A.Q 2"
+                },
+                {
+                    "source": "templates\/career-paths-146ffcd6a2054d3131edd656b61b4302.json",
+                    "name": "Career Paths"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                },
+                {
+                    "source": "templates\/contact-us-2-78ae62950c6231f963f76a10ea9553e3.json",
+                    "name": "Contact Us 2"
+                }
+            ],
+            "filesize": 242148,
+            "dimensions": [
+                1200,
+                791
+            ]
+        },
+        {
+            "filename": "team-meeting-full-of-happy-young-adults.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/team-meeting-full-of-happy-young-adults-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/about-us-1-d8a36c1098e80fd1d39713132635d522.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/f.a.q-2-967e911f145a9cfa3b7bfad6fdb745ad.json",
+                    "name": "F.A.Q 2"
+                },
+                {
+                    "source": "templates\/campus-tours-b41ea73f84c10c6bcbc64f62ad437b25.json",
+                    "name": "Campus Tours"
+                }
+            ],
+            "filesize": 82123,
+            "dimensions": [
+                925,
+                617
+            ]
+        },
+        {
+            "filename": "stem_student3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_student3-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/f.a.q-1-97f332a7322c8450b134eb97d2a35b31.json",
+                    "name": "F.A.Q 1"
+                },
+                {
+                    "source": "templates\/campus-tours-b41ea73f84c10c6bcbc64f62ad437b25.json",
+                    "name": "Campus Tours"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                },
+                {
+                    "source": "templates\/contact-us-2-78ae62950c6231f963f76a10ea9553e3.json",
+                    "name": "Contact Us 2"
+                }
+            ],
+            "filesize": 303145,
+            "dimensions": [
+                1200,
+                801
+            ]
+        },
+        {
+            "filename": "stem_installations1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_installations1-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-89dda6a6e8e6989bc5e830d60a44c102.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/f.a.q-1-97f332a7322c8450b134eb97d2a35b31.json",
+                    "name": "F.A.Q 1"
+                },
+                {
+                    "source": "templates\/f.a.q-2-967e911f145a9cfa3b7bfad6fdb745ad.json",
+                    "name": "F.A.Q 2"
+                },
+                {
+                    "source": "templates\/campus-tours-b41ea73f84c10c6bcbc64f62ad437b25.json",
+                    "name": "Campus Tours"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                },
+                {
+                    "source": "templates\/contact-us-2-78ae62950c6231f963f76a10ea9553e3.json",
+                    "name": "Contact Us 2"
+                }
+            ],
+            "filesize": 465757,
+            "dimensions": [
+                1200,
+                801
+            ]
+        },
+        {
+            "filename": "stem_students4.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_students4-500x330.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                }
+            ],
+            "filesize": 143807,
+            "dimensions": [
+                1200,
+                791
+            ]
+        },
+        {
+            "filename": "stem_video_background2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_video_background2-500x379.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/about-us-1-d8a36c1098e80fd1d39713132635d522.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/couse-detail-a23785579b8718f420cf046a9cc03f80.json",
+                    "name": "Couse Detail"
+                }
+            ],
+            "filesize": 178343,
+            "dimensions": [
+                900,
+                683
+            ]
+        },
+        {
+            "filename": "stem_student_quote.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_student_quote-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/campus-tours-b41ea73f84c10c6bcbc64f62ad437b25.json",
+                    "name": "Campus Tours"
+                }
+            ],
+            "filesize": 211855,
+            "dimensions": [
+                1200,
+                801
+            ]
+        },
+        {
+            "filename": "img_technology.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/img_technology-500x269.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/couses-pro-9099c1d7cb9bd83c6c989cce287108ea.json",
+                    "name": "Couses Pro"
+                },
+                {
+                    "source": "templates\/course-detail-pro-ea87578e4f0dfafe28c2721a63618219.json",
+                    "name": "Course Detail Pro"
+                },
+                {
+                    "source": "templates\/campus-tours-b41ea73f84c10c6bcbc64f62ad437b25.json",
+                    "name": "Campus Tours"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                }
+            ],
+            "filesize": 113930,
+            "dimensions": [
+                1200,
+                645
+            ]
+        },
+        {
+            "filename": "stem_students5.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_students5-500x330.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/campus-tours-b41ea73f84c10c6bcbc64f62ad437b25.json",
+                    "name": "Campus Tours"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                },
+                {
+                    "source": "templates\/contact-us-2-78ae62950c6231f963f76a10ea9553e3.json",
+                    "name": "Contact Us 2"
+                }
+            ],
+            "filesize": 160554,
+            "dimensions": [
+                1200,
+                791
+            ]
+        },
+        {
+            "filename": "woman-presenting-pie-chart.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/woman-presenting-pie-chart-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 46618,
+            "dimensions": [
+                925,
+                617
+            ]
+        },
+        {
+            "filename": "student-team-meeting-at-table.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/student-team-meeting-at-table-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/couse-detail-a23785579b8718f420cf046a9cc03f80.json",
+                    "name": "Couse Detail"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                }
+            ],
+            "filesize": 65896,
+            "dimensions": [
+                925,
+                617
+            ]
+        },
+        {
+            "filename": "stem_game.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_game-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/about-us-1-d8a36c1098e80fd1d39713132635d522.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/courses-be8c11f43d8d9ee30afb722ca7a644d5.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                },
+                {
+                    "source": "templates\/membership-35e780b4df7d29eb923b20b8a41bab76.json",
+                    "name": "Membership"
+                }
+            ],
+            "filesize": 98195,
+            "dimensions": [
+                1200,
+                801
+            ]
+        },
+        {
+            "filename": "woman-scientist-doing-experiment.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/woman-scientist-doing-experiment-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/campus-tours-b41ea73f84c10c6bcbc64f62ad437b25.json",
+                    "name": "Campus Tours"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                }
+            ],
+            "filesize": 58599,
+            "dimensions": [
+                925,
+                617
+            ]
+        },
+        {
+            "filename": "main_1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/main_1-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/courses-be8c11f43d8d9ee30afb722ca7a644d5.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/course-detail-pro-ea87578e4f0dfafe28c2721a63618219.json",
+                    "name": "Course Detail Pro"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                }
+            ],
+            "filesize": 360980,
+            "dimensions": [
+                1200,
+                801
+            ]
+        },
+        {
+            "filename": "stem_energy.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_energy-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                }
+            ],
+            "filesize": 103682,
+            "dimensions": [
+                867,
+                1300
+            ]
+        },
+        {
+            "filename": "adolescent-adult-beautiful-1448258.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/adolescent-adult-beautiful-1448258-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-6fd12f313683f1c42baac8ae24d7ebd5.json",
+                    "name": "Home Pro"
+                },
+                {
+                    "source": "templates\/about-us-1-d8a36c1098e80fd1d39713132635d522.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/couse-detail-a23785579b8718f420cf046a9cc03f80.json",
+                    "name": "Couse Detail"
+                }
+            ],
+            "filesize": 168390,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "img_director1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/img_director1-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-1-d8a36c1098e80fd1d39713132635d522.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/campus-tours-b41ea73f84c10c6bcbc64f62ad437b25.json",
+                    "name": "Campus Tours"
+                }
+            ],
+            "filesize": 170290,
+            "dimensions": [
+                867,
+                1300
+            ]
+        },
+        {
+            "filename": "signature.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/signature-500x286.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-1-d8a36c1098e80fd1d39713132635d522.json",
+                    "name": "About Us 1"
+                }
+            ],
+            "filesize": 91947,
+            "dimensions": [
+                665,
+                381
+            ]
+        },
+        {
+            "filename": "img_icon_faq.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/img_icon_faq.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/f.a.q-1-97f332a7322c8450b134eb97d2a35b31.json",
+                    "name": "F.A.Q 1"
+                },
+                {
+                    "source": "templates\/f.a.q-2-967e911f145a9cfa3b7bfad6fdb745ad.json",
+                    "name": "F.A.Q 2"
+                },
+                {
+                    "source": "templates\/enrollment-d1de02ba5fed0ef6a60a310f05d1487a.json",
+                    "name": "Enrollment"
+                }
+            ],
+            "filesize": 10517,
+            "dimensions": [
+                256,
+                256
+            ]
+        },
+        {
+            "filename": "stem_studen_circle2.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_studen_circle2-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/course-detail-pro-ea87578e4f0dfafe28c2721a63618219.json",
+                    "name": "Course Detail Pro"
+                }
+            ],
+            "filesize": 207439,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "stem_studen_circle.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_studen_circle.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/course-detail-pro-ea87578e4f0dfafe28c2721a63618219.json",
+                    "name": "Course Detail Pro"
+                }
+            ],
+            "filesize": 149958,
+            "dimensions": [
+                300,
+                300
+            ]
+        },
+        {
+            "filename": "stem_studen_circle7.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_studen_circle7.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/course-detail-pro-ea87578e4f0dfafe28c2721a63618219.json",
+                    "name": "Course Detail Pro"
+                }
+            ],
+            "filesize": 170365,
+            "dimensions": [
+                300,
+                300
+            ]
+        },
+        {
+            "filename": "stem_studen_circle4.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_studen_circle4.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/course-detail-pro-ea87578e4f0dfafe28c2721a63618219.json",
+                    "name": "Course Detail Pro"
+                }
+            ],
+            "filesize": 172645,
+            "dimensions": [
+                300,
+                300
+            ]
+        },
+        {
+            "filename": "stem_studen_circle3.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_studen_circle3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/course-detail-pro-ea87578e4f0dfafe28c2721a63618219.json",
+                    "name": "Course Detail Pro"
+                }
+            ],
+            "filesize": 143321,
+            "dimensions": [
+                300,
+                300
+            ]
+        },
+        {
+            "filename": "stem_studen_circle5.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_studen_circle5.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/course-detail-pro-ea87578e4f0dfafe28c2721a63618219.json",
+                    "name": "Course Detail Pro"
+                }
+            ],
+            "filesize": 130037,
+            "dimensions": [
+                300,
+                300
+            ]
+        },
+        {
+            "filename": "stem_studen_circle6.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_studen_circle6.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-b69c8967ec1db092c2c8b5e89609b9e0.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/course-detail-pro-ea87578e4f0dfafe28c2721a63618219.json",
+                    "name": "Course Detail Pro"
+                }
+            ],
+            "filesize": 160541,
+            "dimensions": [
+                300,
+                300
+            ]
+        },
+        {
+            "filename": "img_student_main.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/img_student_main-500x463.png",
+            "templates": [
+                {
+                    "source": "templates\/courses-be8c11f43d8d9ee30afb722ca7a644d5.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 510376,
+            "dimensions": [
+                600,
+                556
+            ]
+        },
+        {
+            "filename": "img_cert_3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/img_cert_3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses-be8c11f43d8d9ee30afb722ca7a644d5.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 14240,
+            "dimensions": [
+                300,
+                300
+            ]
+        },
+        {
+            "filename": "img_cert_1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/img_cert_1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses-be8c11f43d8d9ee30afb722ca7a644d5.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 22674,
+            "dimensions": [
+                300,
+                300
+            ]
+        },
+        {
+            "filename": "img_cert_2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/img_cert_2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses-be8c11f43d8d9ee30afb722ca7a644d5.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 23526,
+            "dimensions": [
+                300,
+                300
+            ]
+        },
+        {
+            "filename": "steam_course_development.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/steam_course_development-500x269.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses-be8c11f43d8d9ee30afb722ca7a644d5.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/couses-pro-9099c1d7cb9bd83c6c989cce287108ea.json",
+                    "name": "Couses Pro"
+                },
+                {
+                    "source": "templates\/course-detail-pro-ea87578e4f0dfafe28c2721a63618219.json",
+                    "name": "Course Detail Pro"
+                },
+                {
+                    "source": "templates\/campus-45a9f71262d4920db82d4d3cf47f0edc.json",
+                    "name": "Campus"
+                }
+            ],
+            "filesize": 114473,
+            "dimensions": [
+                1200,
+                645
+            ]
+        },
+        {
+            "filename": "first-aid-kit-1.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/first-aid-kit-1.png",
+            "templates": [
+                {
+                    "source": "templates\/couses-pro-9099c1d7cb9bd83c6c989cce287108ea.json",
+                    "name": "Couses Pro"
+                },
+                {
+                    "source": "templates\/couse-detail-a23785579b8718f420cf046a9cc03f80.json",
+                    "name": "Couse Detail"
+                }
+            ],
+            "filesize": 3493,
+            "dimensions": [
+                256,
+                256
+            ]
+        },
+        {
+            "filename": "zz-pp1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/zz-pp1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/course-detail-pro-ea87578e4f0dfafe28c2721a63618219.json",
+                    "name": "Course Detail Pro"
+                }
+            ],
+            "filesize": 57501,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "img_icon_guides.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/img_icon_guides.jpg",
+            "templates": [
+                {
+                    "source": "templates\/f.a.q-1-97f332a7322c8450b134eb97d2a35b31.json",
+                    "name": "F.A.Q 1"
+                },
+                {
+                    "source": "templates\/f.a.q-2-967e911f145a9cfa3b7bfad6fdb745ad.json",
+                    "name": "F.A.Q 2"
+                }
+            ],
+            "filesize": 11210,
+            "dimensions": [
+                256,
+                256
+            ]
+        },
+        {
+            "filename": "img_icon_world.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/img_icon_world.jpg",
+            "templates": [
+                {
+                    "source": "templates\/f.a.q-1-97f332a7322c8450b134eb97d2a35b31.json",
+                    "name": "F.A.Q 1"
+                },
+                {
+                    "source": "templates\/f.a.q-2-967e911f145a9cfa3b7bfad6fdb745ad.json",
+                    "name": "F.A.Q 2"
+                }
+            ],
+            "filesize": 19000,
+            "dimensions": [
+                256,
+                256
+            ]
+        },
+        {
+            "filename": "img_family.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/img_family-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/f.a.q-1-97f332a7322c8450b134eb97d2a35b31.json",
+                    "name": "F.A.Q 1"
+                }
+            ],
+            "filesize": 200004,
+            "dimensions": [
+                1200,
+                800
+            ]
+        },
+        {
+            "filename": "zz-portfolio4.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/zz-portfolio4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/f.a.q-1-97f332a7322c8450b134eb97d2a35b31.json",
+                    "name": "F.A.Q 1"
+                }
+            ],
+            "filesize": 130630,
+            "dimensions": [
+                1024,
+                683
+            ]
+        },
+        {
+            "filename": "stem_students3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/stem_students3-500x748.jpg",
+            "templates": [
+                {
+                    "source": "templates\/f.a.q-2-967e911f145a9cfa3b7bfad6fdb745ad.json",
+                    "name": "F.A.Q 2"
+                }
+            ],
+            "filesize": 373877,
+            "dimensions": [
+                839,
+                1255
+            ]
+        },
+        {
+            "filename": "transparent.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/transparent-500x375.png",
+            "templates": [
+                {
+                    "source": "templates\/campus-tours-b41ea73f84c10c6bcbc64f62ad437b25.json",
+                    "name": "Campus Tours"
+                }
+            ],
+            "filesize": 4660,
+            "dimensions": [
+                640,
+                480
+            ]
+        },
+        {
+            "filename": "zz-bg-title3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/zz-bg-title3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/enrollment-d1de02ba5fed0ef6a60a310f05d1487a.json",
+                    "name": "Enrollment"
+                }
+            ],
+            "filesize": 170130,
+            "dimensions": [
+                2100,
+                780
+            ]
+        },
+        {
+            "filename": "img_icon_guides.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/31\/2018\/06\/img_icon_guides.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us-2-78ae62950c6231f963f76a10ea9553e3.json",
+                    "name": "Contact Us 2"
+                }
+            ],
+            "filesize": 4789,
+            "dimensions": [
+                256,
+                256
+            ]
+        }
+    ]
+}
